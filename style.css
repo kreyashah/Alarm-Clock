@@ -9,10 +9,11 @@
 }
 
 h1 {
-    color: rgb(212, 242, 213);
-    background-color: rgb(3, 37, 37);
+    color: black;
+   background-color: hsl(300, 30%, 30%);
     font-style: oblique;
     margin: 0;
+     text-align: center;
 }
 
 body {
