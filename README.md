@@ -4,6 +4,7 @@ It allows the user to set alarms and delete the alarm and when the specified tim
 You can set multiple alarms and delete alarms which are no longer needed.
 
 # Technologies Used
-HTML
-CSS
-Javascript
+
+- HTML
+- CSS
+- Javascript
